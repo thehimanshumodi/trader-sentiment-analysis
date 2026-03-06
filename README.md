@@ -126,4 +126,4 @@ Then open **http://localhost:8501** in your browser.
 
 ---
 
-*Submitted by: Himanshu Modi 
+*Submitted by: Himanshu Modi*
